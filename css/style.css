@@ -1,0 +1,9 @@
+footer{
+  font-size: 13px;
+}
+footer a{
+  color: tomato;
+}
+footer a:hover{
+  text-decoration: none;
+}
